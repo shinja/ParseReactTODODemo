@@ -1,0 +1,14 @@
+{
+  "global": {
+    "parseVersion": "1.5.0"
+  },
+  "applications": {
+    "_default": {
+      "link": "shio"
+    },
+    "shio": {
+      "applicationId": "y5AltzZ4wwropQLB3QJ95YrWsRcuAloyiBEkhja6",
+      "masterKey": ""
+    }
+  }
+}
